@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InBetweenGame</string>
+    <string name="Profile">Profile</string>
+    <string name="text1">I may seem like a clear glass bead</string>
+    <string name="text2">But I won\'t break that easily</string>
+    <string name="Title">MOBILE PREFIX NETWORK IDENTIFIER</string>
+    <string name="txtNetwork"></string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="btnIdentify">Identify</string>
+</resources>
