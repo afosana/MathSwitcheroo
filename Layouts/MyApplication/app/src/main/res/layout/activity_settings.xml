@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Settings">
+
+    <SeekBar
+            style="@style/Widget.AppCompat.SeekBar.Discrete"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="320dp"
+            android:layout_centerHorizontal="true"
+            android:max="5"
+            android:id="@+id/seekBar"
+            android:progressDrawable="@drawable/seekbar_style"
+            android:thumb="@drawable/custom_thumb"
+            android:splitTrack="false"
+            tools:layout_editor_absoluteY="325dp"
+            tools:layout_editor_absoluteX="181dp"/>
+
+    <TextView
+            android:text="@string/Volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="290dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="24sp"
+            android:id="@+id/textView2"/>
+
+</RelativeLayout>
