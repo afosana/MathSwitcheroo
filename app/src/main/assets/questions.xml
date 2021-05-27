@@ -1,0 +1,79 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<questionset>
+
+    <question>
+        <desc>1 + 1 is equal to 3.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>5 * 0 is equal to 0.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>Half of a quarter is an eighth.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>Roman numeral X has a value of 5.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>20 + 10 / 5 = 22</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>12 feet is an inch.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>20 / (5 + 5) = 2</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>A baker's dozen is 12 items.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>Roman numeral I has a value of 100.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>55 / 11 + 5 = 10</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>100 * 5 + 200 / 100 = 502.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>2 / (5 - 3 / 3) = 1/2</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>A tenth of a tenth is a thousandth</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>500 halved is 250</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>45 doubled is 100.</desc>
+        <answer>false</answer>
+    </question>
+
+</questionset>
