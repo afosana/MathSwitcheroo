@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Math Switcheroo</string>
+    <string name="Loading">LOADING</string>
+    <string name="Play">Play</string>
+    <string name="Settings">Settings</string>
+    <string name="HowToPlay">How To Play</string>
+    <string name="Exit">Exit Game</string>
+    <string name="Volume">Volume</string>
+    <string name="Return">Return to Menu</string>
+    <string name="Breakdown">Score Breakdown</string>
+
+    <string name="Score">SCORE</string>
+    <string name="Time">TIME</string>
+    <string name="Streak">STREAK</string>
+
+    <string name="ScVal">Game Score</string>
+    <string name="TiVal">Time Score</string>
+    <string name="StVal">Streak Score</string>
+    <string name="ToVal">Total</string>
+</resources>

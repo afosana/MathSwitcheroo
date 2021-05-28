@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Math Switcheroo</string>
-    <string name="Play">Play</string>
-    <string name="Settings">Settings</string>
-    <string name="HowToPlay">How To Play</string>
-    <string name="Exit">Exit Game</string>
-    <string name="Volume">Volume</string>
-</resources>

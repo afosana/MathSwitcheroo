@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MathSwitcheroo.iml" filepath="$PROJECT_DIR$/.idea/MathSwitcheroo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MathSwitcher.iml" filepath="$PROJECT_DIR$/.idea/modules/MathSwitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MathSwitcher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MathSwitcher.app.iml" />
     </modules>
   </component>
 </project>

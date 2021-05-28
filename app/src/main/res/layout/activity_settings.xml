@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/setting"
+        tools:context="com.example.mathswitcher.Settings">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/laySet"
+            android:gravity="center">
+        <TextView
+                android:text="@string/Volume"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="36sp"
+                android:textColor="#FFFFFF"
+                android:fontFamily="@font/montserrat"
+                android:id="@+id/textView2"/>
+
+        <SeekBar
+                style="@style/Widget.AppCompat.SeekBar.Discrete"
+                android:paddingTop="20dp"
+                android:paddingBottom="20dp"
+                android:layout_width="300dp"
+                android:layout_height="70dp"
+                android:max="5"
+                android:id="@+id/seekBar"
+                android:progressDrawable="@drawable/seekbar_style"
+                android:thumb="@drawable/custom_thumb"
+                android:splitTrack="false"
+                tools:layout_editor_absoluteY="325dp"
+                tools:layout_editor_absoluteX="181dp"/>
+
+        <Button
+                android:id="@+id/btnMenu"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:textSize="24sp"
+                android:background="@drawable/btn_general"
+                android:text="@string/Return"/>
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

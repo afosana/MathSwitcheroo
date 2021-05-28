@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gamebody"
+        tools:context="com.example.mathswitcher.GameActivity">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:id="@+id/topLay"
+            android:layout_marginBottom="25dp">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:id="@+id/txtScore"
+                android:textColor="#F49F0A"
+                android:textSize="50sp"
+                android:fontFamily="@font/montserrat"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Score"
+                android:textColor="#F49F0A"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textSize="20sp"/>
+
+    </LinearLayout>
+
+    <com.lorentzos.flingswipe.SwipeFlingAdapterView
+            android:id="@+id/cards"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:rotation_degrees="15.5"
+            app:max_visible="2"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/topLay"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="425dp"
+            android:layout_marginBottom="25dp">
+
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Time"
+                android:textColor="#F49F0A"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textSize="20sp"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:id="@+id/txtTime"
+                android:textColor="#F49F0A"
+                android:textSize="50sp"
+                android:fontFamily="@font/montserrat"/>
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

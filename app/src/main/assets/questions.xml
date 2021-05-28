@@ -1,0 +1,169 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<questionset>
+
+    <question>
+        <desc>1 + 1 is equal to 3.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>5 * 0 is equal to 0.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>Half of a quarter is an eighth.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>Roman numeral X has a value of 5.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>20 + 10 / 5 = 22</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>12 feet is an inch.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>20 / (5 + 5) = 2</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>A baker's dozen is 12 items.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>Roman numeral I has a value of 100.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>55 / 11 + 5 = 10</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>100 * 5 + 200 / 100 = 502.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>2 / (5 - 3 / 3) = 1/2</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>A tenth of a tenth is a thousandth</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>500 halved is 250</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>45 doubled is 100.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>A kilo of what means a thousand of it.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>A straight angle measures 180 degrees.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>9 is square root of 3</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>Rolling a double in fair pair of dice has 1/6 probability.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>4 squared is 16</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>20 cubed is 8000</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>Picking one of ten flowers gives a tenth probability.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>A probability of 1 is certain</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>4 to the 4th power is equivalent to 16 squared</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>2 cubed is 4 squared</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>5 cubed is 11 squared</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>Absolute value of a negative number is still negative.</desc>
+        <answer>false</answer>
+    </question>
+
+    <question>
+        <desc>20 + (10 * 10) + 1 = 11 squared</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>1 raised to 0 is 1.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>1/2 / 2/4 = 1</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>There are infinite values between 0 and 1.</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>1! = 0!</desc>
+        <answer>true</answer>
+    </question>
+
+    <question>
+        <desc>Ace has 20 candies and left 5. He has 10 of it now.</desc>
+        <answer>false</answer>
+    </question>
+
+</questionset>

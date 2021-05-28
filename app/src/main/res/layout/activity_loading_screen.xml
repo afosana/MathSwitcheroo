@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/load"
+        tools:context="com.example.mathswitcher.LoadingScreen">
+<LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+    <TextView
+            android:text="@string/Loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="35sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/txtLoad"
+            android:fontFamily="@font/montserrat"/>
+
+    <pl.droidsonroids.gif.GifImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:background="@drawable/titlea"
+            android:id="@+id/imgAnim"/>
+
+</LinearLayout>
+
+
+
+</RelativeLayout>
